@@ -1,0 +1,3 @@
+/home/sftantp/Downloads/testv4l2/CMakeFiles/edit_cache.dir
+/home/sftantp/Downloads/testv4l2/CMakeFiles/rebuild_cache.dir
+/home/sftantp/Downloads/testv4l2/CMakeFiles/Demo.dir

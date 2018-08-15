@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++-4.9      CMakeFiles/Demo.dir/V4l2Camera.cpp.o CMakeFiles/Demo.dir/test.cpp.o  -o Demo  -L/home/sftantp/Downloads/libjpeg-turbo/build/install/lib -rdynamic -lturbojpeg -Wl,-rpath,/home/sftantp/Downloads/libjpeg-turbo/build/install/lib 
